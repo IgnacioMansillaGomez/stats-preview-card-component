@@ -21,11 +21,10 @@ Users should be able to:
 ### Screenshot-Solution
 
 ![](/Screenshot/DesktopSolution.png)
-![](/Screenshot/MobileSolution.png)
 
 ### Links
 
-- Solution URL: ![](https://ignaciomansillagomez.github.io/stats-preview-card-component/)
+- Solution URL:(https://ignaciomansillagomez.github.io/stats-preview-card-component/)
 
 ### Built with
 
