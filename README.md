@@ -25,8 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: ![](https://ignaciomansillagomez.github.io/stats-preview-card-component/)
 
 ### Built with
 
@@ -39,5 +38,4 @@ Users should be able to:
 ## Author
 
 - Ignacio Mansilla Gomez
-- Frontend Mentor - [IgnacioMansillaGomez](https://www.frontendmentor.io/profile/yourusername)
 - Linkedin - [IgnacioMansillaGomez](https://www.linkedin.com/in/ignacio-mansilla-gomez-3502551a3/)
